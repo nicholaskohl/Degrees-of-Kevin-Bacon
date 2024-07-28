@@ -12,8 +12,8 @@ public class DOFProject{
        //testers to make sure the Degree logic works
         actor.add("test");
         actor.add("Joe");
-        actor.add("Mog");
-        actor.add("Mog");
+        actor.add("Will");
+        actor.add("Will");
         movies.add("test the movie");
         movies.add("Endgame");
         movies.add("test the movie");
